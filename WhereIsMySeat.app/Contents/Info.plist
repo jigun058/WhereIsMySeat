@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>WhereIsMySeat</string>
+	<key>CFBundleExecutable</key>
+	<string>WhereIsMySeat</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-4a53ef586a4266e4381e3f2da194dbd0917a1f0472fba7d461111e4f1a55c3ff.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>WhereIsMySeat</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>WhereIsMySeat</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
